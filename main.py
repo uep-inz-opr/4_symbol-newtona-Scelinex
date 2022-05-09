@@ -1,8 +1,7 @@
 import math
-dane=input().strip()
-# dane_czyste=dane.replace(" ","")
+dane=input().split()
 n=int(dane[0])
-k=int(dane[2])
+k=int(dane[1])
 
 if k == n:
   print(1)
