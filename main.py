@@ -4,7 +4,7 @@ dane_czyste=input().strip()
 n=int(float(dane_czyste[0]))
 k=int(float(dane_czyste[2]))
 
-if k == 1 or k == n:
+# if k == 1 or k == n:
   print(1)
 
 if k > n:
