@@ -2,7 +2,7 @@ import math
 dane_czyste=input().strip()
 # dane_czyste=dane.replace(" ","")
 n=int(dane_czyste[0])
-k=int(dane_czyste[1])
+k=int(dane_czyste[2])
 
 if k == 1 or k == n:
   print(1)
