@@ -1,8 +1,8 @@
 import math
 dane_czyste=input().strip()
 # dane_czyste=dane.replace(" ","")
-n=int(float(dane_czyste[0]))
-k=int(float(dane_czyste[2]))
+n=int(dane_czyste[0])
+k=int(dane_czyste[2])
 
 if k == n:
   print(1)
